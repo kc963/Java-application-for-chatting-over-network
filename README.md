@@ -17,3 +17,4 @@
 	- To drop all the connections to the server and end the chats, send "END" from the server.
 
 #### The screen capture file shows the screenshot of the window when the application is running.
+![Screenshot](https://github.com/kc963/Java-application-for-chatting-over-network/blob/master/Screen%20capture%20-%20client%20server.JPG)
